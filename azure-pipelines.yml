@@ -8,8 +8,8 @@ trigger:
 
 pool: devops-bp
   
-demands:
-  - npm
+#demands:
+#  - npm
 
 variables:
   buildConfiguration: 'Release'
