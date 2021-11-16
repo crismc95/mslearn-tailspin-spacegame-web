@@ -7,7 +7,8 @@ trigger:
 - '*'
 
 pool: devops-bp
-  demands:
+  
+demands:
   - npm
 
 variables:
